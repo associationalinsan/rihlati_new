@@ -1,0 +1,9 @@
+# Stable versions - Tested 2025
+firebase_core: 2.32.0
+firebase_auth: 4.16.0
+cloud_firestore: 4.17.5
+
+# Created: 2025-05-12
+# Notes:
+# - Compatible with Flutter 3.x
+# - No known issues
